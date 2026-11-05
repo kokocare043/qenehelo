@@ -1,0 +1,15 @@
+QENEHELO FRAGRANCE WEBSITE REBRAND
+
+This archive has been visually and textually rebranded as Qenehelo Fragrance with a premium black, gold and warm-ivory theme. Existing HTML pages, product images, cart/referral scripts and page links have been retained.
+
+Business contact details applied:
+Website: https://qenehelo.gt.tc
+Telephone: +27 16 989 1005
+WhatsApp orders and suggestions: +27 73 031 7165
+Additional WhatsApp: +27 78 823 2462
+
+IMPORTANT DEPLOYMENT CHECKS
+- This source archive is a static HTML website; it does not contain a PHP server/backend. Existing browser-based cart and referral features remain client-side.
+- Existing payment-provider URLs and merchant account configuration have not been changed. Confirm the Yoco/PayPal merchant account and payment links belong to Qenehelo before accepting payments.
+- Test product pages, cart, checkout, WhatsApp order links, referral registration/login and admin dashboard after upload.
+- Internal browser storage keys and the existing admin password constant were preserved to avoid breaking existing local data/configuration. Change the admin password securely before public production use; do not rely on a front-end password for real security.
